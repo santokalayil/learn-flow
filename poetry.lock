@@ -67,7 +67,7 @@ pyyaml = "^6.0.1"
 type = "git"
 url = "https://github.com/santokalayil/slogger.git"
 reference = "HEAD"
-resolved_reference = "c28c1ed18be52ba6b70e499ea6d73eb86ef9aeb6"
+resolved_reference = "e0e407d7816fc463a9d6bd94430e51fbaa8233c2"
 
 [metadata]
 lock-version = "2.0"
