@@ -8,6 +8,7 @@ packages = [{include = "learn_flow"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+slogger = {git = "https://github.com/santokalayil/slogger.git"}
 
 
 [build-system]
